@@ -1,0 +1,4 @@
+name = "AJAX test link"
+description = "A simple timestamp AJAX node"
+core = 7.x
+scripts[] = ajax_link.js

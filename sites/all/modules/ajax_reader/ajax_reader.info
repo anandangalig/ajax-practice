@@ -1,0 +1,5 @@
+name = AJAX Reader app
+description = Display portions of nodes with AJAX.
+package = Epicodus Examples
+core = 7.x
+files[] = ajax_reader.module
